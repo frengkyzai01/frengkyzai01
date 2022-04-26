@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frengkyzai01
 - 👀 I’m interested in Business
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on porgramming
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me @frengkyzai01@gmail.com
 
 <!---
